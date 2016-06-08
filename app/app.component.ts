@@ -20,6 +20,7 @@ import 'rxjs/add/operator/switchMap';
     template: `
        <div>
       <h2>Wikipedia Search</h2><br>
+      <img src='https://avatars3.githubusercontent.com/u/9459881?v=3&s=460' style="width:150px; height:150px;"><br><br>
       <b>Search Text</b> :<br>
       <div><font color='orange'>Bora has been writing code for as long as he can remember and has been getting paid to do it since 1996. .Net And Web technologies is his passion. And he is really interested in with Azure. 
             He is working as a Senior Software Architect  for Dogan Gazetecilik, which is the biggest media company in Turkey. In the past, he was working as a Development Team Leader for Medyanet Dogan Online, which 
